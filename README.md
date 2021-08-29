@@ -1,2 +1,4 @@
-# Advanced-Time-Series-Analysis-With-ARIMA
-This notebook forecasts the average temperature using traditional machine learning algorithm (ARIMA)
+# Advanced Time Series Analysis with ARIMA
+This notebook forecasts the average temperature using traditional machine learning algorithm: Auto Regressive Integrated Moving Average models (ARIMA). It is a step-by-step guide on how to use ARIMA models in Python and apply it to real-world data.
+
+Dataset can be fount on [Berkeley Earth data](http://berkeleyearth.org/data/) page. The Berkeley Earth Surface Temperature Study combines 1.6 billion temperature reports from 16 pre-existing archives. It is nicely packaged and allows for slicing into interesting subsets (for example by country). They publish the source data and the code for the transformations they applied. They also use methods that allow weather observations from shorter time series to be included, meaning fewer observations need to be thrown away.
